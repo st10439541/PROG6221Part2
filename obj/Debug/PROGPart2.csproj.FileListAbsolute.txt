@@ -1,0 +1,8 @@
+C:\Users\miche\source\repos\PROGPart2\PROGPart2\bin\Debug\PROGPart2.exe.config
+C:\Users\miche\source\repos\PROGPart2\PROGPart2\bin\Debug\PROGPart2.exe
+C:\Users\miche\source\repos\PROGPart2\PROGPart2\bin\Debug\PROGPart2.pdb
+C:\Users\miche\source\repos\PROGPart2\PROGPart2\obj\Debug\PROGPart2.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\PROGPart2\PROGPart2\obj\Debug\PROGPart2.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\PROGPart2\PROGPart2\obj\Debug\PROGPart2.exe
+C:\Users\miche\source\repos\PROGPart2\PROGPart2\obj\Debug\PROGPart2.pdb
+C:\Users\miche\source\repos\PROGPart2\PROGPart2\obj\Debug\PROGPart2.exe.config
